@@ -1,0 +1,30 @@
+{
+  "editor.formatOnSave": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.endWithNewline": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "stylelint.autoFixOnSave": true,
+  "emmet.triggerExpansionOnTab": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.formatOnSave": false
+  },
+  "[scss]": {
+    "editor.formatOnSave": false
+  },
+  "[sass]": {
+    "editor.formatOnSave": false
+  }
+}

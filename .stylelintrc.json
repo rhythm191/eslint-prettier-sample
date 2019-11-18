@@ -1,0 +1,4 @@
+{
+  "extends": ["stylelint-config-twbs-bootstrap/scss"],
+  "ignoreFiles": ["**/node_modules/**", "**/*.min.css"]
+}

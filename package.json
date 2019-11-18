@@ -1,0 +1,37 @@
+{
+  "name": "eslint-prettier-sample",
+  "version": "1.0.0",
+  "description": "sample project that code format by eslint and prettier",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhythm191/eslint-prettier-sample.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": "rhythm191",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhythm191/eslint-prettier-sample/issues"
+  },
+  "homepage": "https://github.com/rhythm191/eslint-prettier-sample#readme",
+  "devDependencies": {
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^6.0.1",
+    "stylelint": "^10.1.0",
+    "stylelint-config-twbs-bootstrap": "^0.5.0"
+  }
+}
